@@ -1,3 +1,3 @@
 # tadsjam
 
-A public repositor of tadsjam.com files.
+A public repository of tadsjam.com files.
